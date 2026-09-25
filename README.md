@@ -1,5 +1,10 @@
 # TypeSafe Agent Skills
 
+> **ARC status (2026-09-25)**
+> Purpose: A copy of the third-party `typesafe-ai/skills` Claude Code plugin marketplace. Not written by ARC.
+> Status: Kept for reference only; not synced to any ARC agent.
+> Proposed: Rename to make clear it is vendor content (for example `vendor-typesafe-skills`), waiting for a decision by Mike or Johan (see the system map in arc-web/arc-operations, `system-graph/SYSTEM_MAP.md`).
+
 Agent skills for building with [TypeSafe](https://typesafe.ai): typed decisions and probabilities from System One models.
 
 You can [read SKILL.md on GitHub](https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md) or fetch its [raw Markdown](https://raw.githubusercontent.com/typesafe-ai/skills/main/skills/typesafe-ai/SKILL.md).
